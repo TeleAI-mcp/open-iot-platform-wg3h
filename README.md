@@ -1,2 +1,3 @@
-# open-iot-platform-wg3h
-Automated issue comment bot repository
+# Open Iot Platform Wg3H
+
+Automated issue comment bot repository.
